@@ -1,0 +1,3 @@
+interface:
+  display_name: "Network Diagnostics"
+  short_description: "Isolate network failures with layered safe checks"
