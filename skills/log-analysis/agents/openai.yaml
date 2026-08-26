@@ -1,0 +1,3 @@
+interface:
+  display_name: "Log Analysis"
+  short_description: "Correlate logs and test root-cause hypotheses"
