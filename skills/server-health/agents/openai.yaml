@@ -1,0 +1,3 @@
+interface:
+  display_name: "Server Health"
+  short_description: "Help with Server Health tasks"
